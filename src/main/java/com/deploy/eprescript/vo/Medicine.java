@@ -1,4 +1,4 @@
-package com.deploy.epriscript.vo;
+package com.deploy.eprescript.vo;
 
 public class Medicine {
 	

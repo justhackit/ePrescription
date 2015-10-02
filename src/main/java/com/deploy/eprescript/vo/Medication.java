@@ -1,7 +1,7 @@
-package com.deploy.epriscript.vo;
+package com.deploy.eprescript.vo;
 
-import com.deploy.epriscript.vo.ConstantsEnums.When;
-import com.deploy.epriscript.vo.ConstantsEnums.Frequency;
+import com.deploy.eprescript.vo.ConstantsEnums.When;
+import com.deploy.eprescript.vo.ConstantsEnums.Frequency;
 
 public class Medication {
 	

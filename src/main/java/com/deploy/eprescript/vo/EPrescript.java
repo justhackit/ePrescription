@@ -1,4 +1,4 @@
-package com.deploy.epriscript.vo;
+package com.deploy.eprescript.vo;
 
 import java.util.Date;
 import java.util.List;
